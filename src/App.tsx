@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { FiClock } from 'react-icons/fi';
+
 import Navigation from './components/Navigation';
 import DurationCalculator from './components/DurationCalculator';
 import TimeAdder from './components/TimeAdder';
